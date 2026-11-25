@@ -1,11 +1,11 @@
 {
-  "version": "4.0.78",
-  "build": 79,
+  "version": "4.0.79",
+  "build": 80,
   "channel": "main",
-  "publishedAt": "2026-11-24T22:12:26.688Z",
+  "publishedAt": "2026-11-25T01:32:08.167Z",
   "artifact": "DofusTouch-Emu.exe",
-  "sha256": "428fb449d7073bcb2c69d58cabb9dcdfe35b01e68365b4ec97819f3c1a09a9d3",
-  "size": 76991243,
-  "releaseUrl": "https://github.com/italocoelh0/touchemu-updates/releases/tag/v4.0.78",
-  "downloadUrl": "https://github.com/italocoelh0/touchemu-updates/releases/download/v4.0.78/DofusTouch-Emu.exe"
+  "sha256": "749011d350bea18789d19b081bc2d485460f0b5a531935d693aa6718cf533941",
+  "size": 76990732,
+  "releaseUrl": "https://github.com/italocoelh0/touchemu-updates/releases/tag/v4.0.79",
+  "downloadUrl": "https://github.com/italocoelh0/touchemu-updates/releases/download/v4.0.79/DofusTouch-Emu.exe"
 }
